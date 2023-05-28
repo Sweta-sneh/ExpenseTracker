@@ -1,0 +1,35 @@
+.box1 {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(162, 88, 141);
+}
+
+.box2 {
+   
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(255, 225, 0);
+}
+
+
+.biggest {
+    text-align: center;
+    display: flex;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: #9c88ff;
+    box-shadow: var(--box-shadow);
+    color: #fff;
+    border: 0;
+    display: block;
+    font-size: 16px;
+    margin: 10px 0 30px;
+    padding: 10px;
+    width: 100%;
+  }
